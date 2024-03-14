@@ -1,6 +1,6 @@
 This repository contains a dataset and code for predicting bike sharing demand. The dataset contains 17,414 observations of 10 variables, including timestamp, count of new bike shares, real temperature, "feels like" temperature, humidity, windspeed, weather code, holiday status, weekend status, and season. The code includes Jupyter notebooks for data exploration, preprocessing and evaluation.
 
-Dataset Description:
+London bike sharing dataset Historical data for bike sharing in London 'Powered by TfL Open Data'.
 
 Data Dictionary: The dataset used for model building contained 17,414 observations of 10 variables. The data contains the following information:
 

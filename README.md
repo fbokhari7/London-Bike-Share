@@ -31,4 +31,4 @@ Seaborn: Data visualization library for drawing statistical graphics.
 Dataset source: 
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
 
-Feel free to contribute by adding new features, or exploring different algorithms for prediction.
+Feel free to contribute by adding new features, or exploring different algorithms.

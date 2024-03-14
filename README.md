@@ -21,19 +21,14 @@ Data Dictionary: The dataset used for model building contained 17,414 observatio
 Repository Contents:
 data/: Folder containing the dataset.
 scripts/: Python scripts for data preprocessing, data analysis, and evaluation.
+Pdf/: A pdf of the whole script and visualizations.
 
 List of Python packages required to run the code.
-
 Pandas: Library for data manipulation and analysis.
 Matplotlib: Library for creating visualizations in Python.
 Seaborn: Data visualization library for drawing statistical graphics.
 
-Usage:
-Clone the repository: git clone https://github.com/your_username/bike-sharing-demand-prediction.git
-Install the required packages: pip install -r requirements.txt
-Explore the notebooks in the notebooks/ directory to understand the data and modeling process.
-Use the scripts in the scripts/ directory for data preprocessing, model training, and evaluation.
-References:
-Dataset source: [Add dataset source link here]
-Original dataset description: [Add original dataset description link here]
-Feel free to contribute by improving the models, adding new features, or exploring different algorithms for prediction.
+Dataset source: 
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
+
+Feel free to contribute by adding new features, or exploring different algorithms for prediction.

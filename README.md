@@ -19,9 +19,9 @@ Data Dictionary: The dataset used for model building contained 17,414 observatio
 |season| Category field for meteorological seasons: 0-spring; 1-summer; 2-fall; 3-winter. |
 
 Repository Contents:
-data/: Folder containing the dataset.
-scripts/: Python scripts for data preprocessing, data analysis, and evaluation.
-Pdf/: A pdf of the whole script and visualizations.
+data: Folder containing the dataset.
+scripts: Python scripts for data preprocessing, data analysis, and evaluation.
+Pdf: A pdf of the whole script and visualizations.
 
 List of Python packages required to run the code.
 Pandas: Library for data manipulation and analysis.
